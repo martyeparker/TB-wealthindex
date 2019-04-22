@@ -1,0 +1,6 @@
+.DS_Store
+.Rhistory
+data/india0506HH.rda
+data/india1516HH.rda
+data/tmp/*
+
